@@ -1,0 +1,1 @@
+Estou criando um curso básico de TypeScript para ajudar aqueles que queem aprender.
